@@ -1,0 +1,9 @@
+{
+  "user_agent": "Mozilla/5.0 (compatible; LoomTranscriptScraper/1.0; +https://bitbash.dev)",
+  "timeout_seconds": 20,
+  "max_retries": 3,
+  "concurrent_workers": 4,
+  "respect_robots_txt": false,
+  "proxy": null,
+  "output_pretty": true
+}
